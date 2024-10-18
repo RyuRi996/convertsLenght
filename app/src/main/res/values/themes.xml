@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ConvertsLenght" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#06332c</item>
+        <item name="colorSecondary">#60cfa4</item>
+    </style>
+
+    <style name="Theme.ConvertsLenght" parent="Base.Theme.ConvertsLenght" />
+
+    <style name="textTile">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingVertical">10dp</item>
+        <item name="android:fontFamily">@font/avo</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    
+    <style name="hintSize">
+        <item name="android:textSize">17dp</item>
+    </style>
+
+
+</resources>

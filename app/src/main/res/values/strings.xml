@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Length Convert</string>
+    <string name="choice">Select length unit</string>
+
+
+    <string-array name="length_units">
+        <item>Millimeter (mm)</item>
+        <item>Centimeter (cm)</item>
+        <item>Decimeter (dm)</item>
+        <item>Meter (m)</item>
+        <item>Kilometer (km)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Mile (mi)</item>
+    </string-array>
+</resources>
